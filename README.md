@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Faheem Riaz
 - 👀 I’m interested in mobile developement and machine learning
-- 🌱 I have 2 year experience in flutter
+- 🌱 I have over 3 years experience in flutter
 - 💞️ I’m looking to collaborate on flutter and machine learning projects
 - 📫 How to reach me, faheem.riaz.kn@gmail.com
